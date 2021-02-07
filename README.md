@@ -10,11 +10,11 @@
 - Brightness
 - Fn + Brightness (F11, F12)
 - Touchpad
-- HDMI
+- HDMI Port
 - All Port USB
 
 # What doesn't work:
 - Airdrop
 
-# Update New Version
+# Update New Version: Opencore 0.6.6
 https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases/tag/0.6.6
