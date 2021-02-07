@@ -15,3 +15,6 @@
 
 # What doesn't work:
 - Airdrop
+
+# Update Version
+https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases/tag/0.6.6
