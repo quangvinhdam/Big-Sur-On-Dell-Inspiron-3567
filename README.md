@@ -27,4 +27,4 @@
 - SDcard Port
 
 # Update New Version: Opencore 0.6.6
-https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases
+https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases/tag/0.6.6
