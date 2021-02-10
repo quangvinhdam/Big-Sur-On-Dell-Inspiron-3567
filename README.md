@@ -1,4 +1,4 @@
-# Big-Sur-On-Dell-Inspiron-3567
+# Big-Sur On Dell Inspiron 15 3567
 
 # Specs:
 - CPU:	Intel Core i3 Kabylake, 7020U, 2.30 GHz
