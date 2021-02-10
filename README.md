@@ -9,7 +9,7 @@
 - Ethernet: RTL810xE PCI Express Fast Ethernet controller
 - Audio Adapter: Realtek ALC256 - High Definition Audio Controller
 
-# Working
+# Working:
 - Intel HD Graphics 620 2048 MB
 - Restart and Shutdown
 - CPU Power Management
@@ -20,7 +20,7 @@
 - Volumes Key (F1, F2, F3)
 - Touchpad
 - HDMI Port
-- All Port USB
+- All USB Ports
 
 # Not Working:
 - Airdrop
