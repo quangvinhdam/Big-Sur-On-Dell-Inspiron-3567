@@ -1,13 +1,13 @@
 # Big-Sur-On-Dell-Inspiron-3567
 
 # Specs:
-CPU:	Intel Core i3 Kabylake, 7020U, 2.30 GHz
-Display: 15.6”, HD (1366 x 768), TN
-GPU: Intel Integrated HD Graphics 620
-USB Ports:	1 x USB 2.0, 2 x USB 3.0
-Connectivity: Intel AC 3165
-Ethernet: RTL810xE PCI Express Fast Ethernet controller
-Audio Adapter: Realtek ALC256 - High Definition Audio Controller
+- CPU:	Intel Core i3 Kabylake, 7020U, 2.30 GHz
+- Display: 15.6”, HD (1366 x 768), TN
+- GPU: Intel Integrated HD Graphics 620
+- USB Ports:	1 x USB 2.0, 2 x USB 3.0
+- Connectivity: Intel AC 3165
+- Ethernet: RTL810xE PCI Express Fast Ethernet controller
+- Audio Adapter: Realtek ALC256 - High Definition Audio Controller
 
 # Working
 - Intel HD Graphics 620 2048 MB
