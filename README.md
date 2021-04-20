@@ -26,7 +26,7 @@
 - Airdrop
 - SDcard Port
 
-## Preview macOS on Dell Inspiron 15 3567:
+# Preview macOS on Dell Inspiron 15 3567:
 https://youtu.be/tHiayUbpyO4
 
 # Screen Shot:
