@@ -27,7 +27,8 @@
 - SDcard Port
 - 
 # Screen Shot:
-![Screen Shot](./images/Screen Shot.png)
+![macOSBigSur](./images/macOSBigSur.png)
+
 
 
 # Update New Version: Opencore 0.6.6
