@@ -27,7 +27,7 @@
 - SDcard Port
 - 
 # Screen Shot:
-![](Screen Shot.png)
+![](./images/Screen Shot.png)
 
 
 # Update New Version: Opencore 0.6.6
