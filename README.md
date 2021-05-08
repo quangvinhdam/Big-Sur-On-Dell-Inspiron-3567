@@ -34,5 +34,5 @@ https://youtu.be/tHiayUbpyO4
 
 
 
-# Update New Version: Opencore 0.6.6
-https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases/tag/0.6.6
+# Update New Version: Opencore 0.6.9
+https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases/tag/0.6.9
