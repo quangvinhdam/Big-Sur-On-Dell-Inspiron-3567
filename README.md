@@ -1,5 +1,8 @@
 # Bigsur On Dell Inspiron 15 3567
 
+# Monterey on DEll Inspiron 3567
+https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567
+
 # Specs:
 - CPU:	Intel Core i3 Kabylake, 7020U, 2.30 GHz
 - Display: 15.6”, HD (1366 x 768), TN
@@ -36,6 +39,3 @@ https://youtu.be/tHiayUbpyO4
 
 # Update New Version: Opencore 0.6.9
 https://github.com/quangvinhdam/Big-Sur-On-Dell-Inspiron-3567/releases/tag/0.6.9
-
-# Monterey on DEll Inspiron 3567
-https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567
