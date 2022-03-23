@@ -1,6 +1,6 @@
 # Bigsur On Dell Inspiron 15 3567
 
-#(NEW) Monterey on DEll Inspiron 3567
+# (NEW) Monterey on DEll Inspiron 3567
 https://github.com/quangvinhdam/Monterey-On-Dell-Inspiron-3567
 
 # Specs:
